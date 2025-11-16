@@ -53,6 +53,7 @@ The app.py file provides an interactive UI where users can:
 >> Pickle
 
 **🚀 How to Run the Project**
+
 **1️⃣ Clone the repository**
 
 git clone https://github.com/bhavesh-1244/IPL-MATCH-WINNER-PREDICTION-MODEL.git
