@@ -55,8 +55,8 @@ The app.py file provides an interactive UI where users can:
 **🚀 How to Run the Project**
 **1️⃣ Clone the repository**
 
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/bhavesh-1244/IPL-MATCH-WINNER-PREDICTION-MODEL.git
+cd IPL-MATCH-WINNER-PREDICTION-MODEL
 
 **2️⃣ Install required libraries**
 
